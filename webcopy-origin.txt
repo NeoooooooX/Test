@@ -1,0 +1,36 @@
+Uri: https://conceptcapers.com/
+File Name: D:\OneDrive\Website\conceptcapers.com\index.htm
+Content Type: text/html
+
+Uri: https://conceptcapers.com/assets/hughie-0a58f37d.woff2
+File Name: D:\OneDrive\Website\conceptcapers.com\assets\hughie-0a58f37d.woff2
+Content Type: application/font-woff2
+
+Uri: https://conceptcapers.com/assets/index-7d2f31c9.css
+File Name: D:\OneDrive\Website\conceptcapers.com\assets\index-7d2f31c9.css
+Content Type: text/css
+
+Uri: https://conceptcapers.com/assets/index-f3667432.js
+File Name: D:\OneDrive\Website\conceptcapers.com\assets\index-f3667432.js
+Content Type: application/javascript
+
+Uri: https://conceptcapers.com/manifest.webmanifest
+File Name: D:\OneDrive\Website\conceptcapers.com\manifest.webmanifest
+Content Type: application/json
+
+Uri: https://conceptcapers.com/privacy
+File Name: D:\OneDrive\Website\conceptcapers.com\privacy.html
+Content Type: text/html
+
+Uri: https://conceptcapers.com/thumbs/cc-app-icon-6093_favicon-180.png
+File Name: D:\OneDrive\Website\conceptcapers.com\thumbs\cc-app-icon-6093_favicon-180.png
+Content Type: image/png
+
+Uri: https://conceptcapers.com/thumbs/cc-app-icon-6093_favicon-192.png
+File Name: D:\OneDrive\Website\conceptcapers.com\thumbs\cc-app-icon-6093_favicon-192.png
+Content Type: image/png
+
+Uri: https://conceptcapers.com/thumbs/cc-app-icon-6093_favicon-32.png
+File Name: D:\OneDrive\Website\conceptcapers.com\thumbs\cc-app-icon-6093_favicon-32.png
+Content Type: image/png
+
